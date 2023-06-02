@@ -11,7 +11,7 @@ body, html {
 }
 
 .col{
-    font-family: product sans thin;
+    font-family: 'Roboto', sans-serif;
     font-size: 64px;
     color: aliceblue;
     font-weight: 100;
